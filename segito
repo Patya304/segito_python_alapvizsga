@@ -1,0 +1,23 @@
+abszulut: abs()
+min:valtozo egyenlo valami[0]
+for elem in lista:
+ha az elem kisebb mint valtozo
+valtzo egyenlo elem
+visszateres valtozoval
+oss:valtozo egyenlo 0
+for szam in lista:
+valtozo plus egyenlo szam
+visszateres valtozo
+par:valtozo egyenlo 0
+for szam in szamok:
+ha a szam maradek oszt. 2 == 0
+valtozo plus egyenlo 1
+return parosok
+hanya:visszateres lista.index(szam)
+atl:ha not list
+visszater 0
+visszater sum(list) osztas len(list)
+fakt: valt egyenlo 1
+for i in range(1, n+1):
+valt szor egyenlo i
+visszater valt
